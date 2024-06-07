@@ -1,0 +1,15 @@
+import org.olahammed.car.Corolla;
+import org.olahammed.car.Swift;
+import org.olahammed.interfaces.Car;
+
+public class App {
+
+	public static void main(String[] args) {
+		Car o1 = new Swift();
+		o1.specs();
+		
+		Car o2 = new Swift();
+		o2.specs();
+	}
+
+}

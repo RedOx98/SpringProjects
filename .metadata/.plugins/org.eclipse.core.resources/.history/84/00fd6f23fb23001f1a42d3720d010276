@@ -1,0 +1,19 @@
+package org.olahammed.car;
+
+import org.olahammed.interfaces.Car;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("corolla")
+public class Corolla implements Car {
+	@Autowired(required = false)
+	Engine engine;
+//	Engine engine = new Engine();
+
+	@Override
+	public void specs() {
+		System.out.println("Sedan from Toyota with engine as ");
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package org.olahammed.car;
+
+import org.olahammed.interfaces.Car;
+
+public class Corolla implements Car {
+
+	@Override
+	public void specs() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

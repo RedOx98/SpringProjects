@@ -1,0 +1,11 @@
+import org.olahammed.car.Swift;
+import org.olahammed.interfaces.Car;
+
+public class App {
+
+	public static void main(String[] args) {
+		Car swift = new Swift();
+		swift.specs();
+	}
+
+}

@@ -1,0 +1,323 @@
+2024-06-04 13:40:12,988 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-04 13:41:27,958 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [629])
+2024-06-04 13:41:27,962 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-06-04 13:41:27,962 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-06-04 13:41:27,963 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-06-04 13:41:27,963 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-06-04 13:41:27,963 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-06-04 13:41:27,963 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-06-04 13:41:27,963 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-06-04 13:41:27,964 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-06-04 13:41:27,964 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-06-04 13:41:27,964 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-06-04 13:41:27,964 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-06-04 13:41:27,964 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-06-04 13:41:27,965 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-06-04 13:41:27,965 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-06-04 13:41:27,965 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-06-04 13:41:27,965 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-06-04 13:41:27,965 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-06-04 13:41:27,966 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-06-04 13:41:27,967 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-06-04 13:41:27,967 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-06-04 13:41:27,967 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-06-04 13:41:27,967 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-06-04 13:41:27,967 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-06-04 13:41:27,968 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-06-04 13:41:27,968 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-06-04 13:41:27,968 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-06-04 13:41:27,968 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-06-04 13:41:27,969 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-06-04 13:41:27,970 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-06-04 13:41:27,970 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-06-04 13:41:27,971 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-06-04 13:41:27,971 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-06-04 13:41:27,971 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-06-04 13:41:27,972 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-06-04 13:41:27,972 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-06-04 13:41:27,975 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-06-04 13:41:27,976 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/com.google.guava_33.0.0.jre.jar
+2024-06-04 13:41:27,976 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [991])
+2024-06-04 13:41:27,976 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/slf4j.api_2.0.13.jar
+2024-06-04 13:41:27,976 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-06-04 13:41:27,977 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-06-04 13:41:27,977 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-06-04 13:41:27,977 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/jakarta.annotation-api_1.3.5.jar
+2024-06-04 13:41:27,977 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-06-04 13:41:27,977 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.apache.commons.cli_1.6.0.jar
+2024-06-04 13:41:27,978 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-06-04 13:41:27,978 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-06-04 13:41:27,978 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-06-04 13:41:27,978 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-06-04 13:41:27,978 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-06-04 13:41:27,979 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/olaidehammed/.p2/pool/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-06-04 13:41:27,989 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/var/folders/c5/8q0cm5ss1lb0d130c5f457740000gn/T/m2e-archetypeGenerator13027893407893518748":
+2024-06-04 13:41:27,995 [Worker-4: Launching mavenrun-7c3263f2-979e-4af7-94e7-26680aa09d73] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.0 -DgroupId=org.olahammed -DartifactId=SpringProject -Dversion=0.0.1-SNAPSHOT -Dpackage=org.olahammed.SpringProject -DoutputDirectory=/Users/olaidehammed/eclipse-workspace -Dstyle.color=always -U archetype:generate
+2024-06-04 13:41:41,728 [Worker-19: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/olaidehammed/eclipse-workspace/SpringProject/pom.xml
+2024-06-04 13:41:42,521 [Worker-19: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.olahammed:SpringProject:0.0.1-SNAPSHOT @ /Users/olaidehammed/eclipse-workspace/SpringProject/pom.xml.
+2024-06-04 13:41:43,766 [Worker-19: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/main/java
+2024-06-04 13:41:43,769 [Worker-19: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/main/resources
+2024-06-04 13:41:43,771 [Worker-19: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/test/java
+2024-06-04 13:41:43,772 [Worker-19: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/test/resources
+2024-06-04 13:41:45,790 [Worker-19: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-06-04 13:41:46,722 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-04 13:41:46,738 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 13:41:46,751 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-04 13:41:46,752 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/olaidehammed/eclipse-workspace/SpringProject/src/test/resources
+2024-06-04 13:59:32,298 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.olahammed:SpringProject:0.0.1-SNAPSHOT @ /Users/olaidehammed/eclipse-workspace/SpringProject/pom.xml.
+2024-06-04 13:59:33,174 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 13:59:33,182 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/olaidehammed/eclipse-workspace/SpringProject/src/test/resources
+2024-06-04 13:59:33,183 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringProject
+2024-06-04 13:59:33,188 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringProject
+2024-06-04 14:02:37,661 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-04 14:07:06,247 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-04 14:08:53,331 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-04 14:17:04,731 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 14:17:04,741 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/olaidehammed/eclipse-workspace/SpringProject/src/test/resources
+2024-06-04 14:22:22,314 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 14:22:22,321 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/olaidehammed/eclipse-workspace/SpringProject/src/test/resources
+2024-06-04 14:23:12,935 [Worker-107: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-04 14:23:13,434 [Worker-107: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.olahammed:SpringProject:0.0.1-SNAPSHOT @ /Users/olaidehammed/eclipse-workspace/SpringProject/pom.xml.
+2024-06-04 14:23:14,331 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/main/java
+2024-06-04 14:23:14,334 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/main/resources
+2024-06-04 14:23:14,356 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/test/java
+2024-06-04 14:23:14,358 [Worker-107: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/test/resources
+2024-06-04 14:23:16,524 [Worker-107: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringProject
+2024-06-04 14:23:16,564 [Worker-107: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2024-06-04 14:23:16,642 [Worker-112: Building Project SpringProject] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 14:23:16,648 [Worker-112: Building Project SpringProject] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/olaidehammed/eclipse-workspace/SpringProject/src/test/resources
+2024-06-04 14:23:16,649 [Worker-112: Building Project SpringProject] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringProject
+2024-06-04 14:23:16,650 [Worker-112: Building Project SpringProject] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringProject
+2024-06-04 14:24:07,730 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 14:24:07,735 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-04 14:24:28,818 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-04 14:24:29,151 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.olahammed:SpringProject:0.0.1-SNAPSHOT @ /Users/olaidehammed/eclipse-workspace/SpringProject/pom.xml.
+2024-06-04 14:24:29,828 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/main/java
+2024-06-04 14:24:29,829 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/main/resources
+2024-06-04 14:24:29,832 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/test/java
+2024-06-04 14:24:29,832 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/test/resources
+2024-06-04 14:24:30,012 [Worker-115: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringProject
+2024-06-04 14:24:30,019 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-06-04 14:24:30,161 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 14:24:30,165 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-04 14:24:30,166 [Worker-112: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringProject
+2024-06-04 14:24:30,166 [Worker-112: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringProject
+2024-06-04 14:26:11,307 [Worker-91: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-04 14:26:11,536 [Worker-91: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.olahammed:SpringProject:0.0.1-SNAPSHOT @ /Users/olaidehammed/eclipse-workspace/SpringProject/pom.xml.
+2024-06-04 14:26:12,056 [Worker-91: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/main/java
+2024-06-04 14:26:12,057 [Worker-91: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/main/resources
+2024-06-04 14:26:12,058 [Worker-91: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProject/src/test/java
+2024-06-04 14:26:12,058 [Worker-91: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProject/src/test/resources
+2024-06-04 14:26:12,185 [Worker-91: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringProject
+2024-06-04 14:26:12,192 [Worker-91: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-06-04 14:26:12,330 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 14:26:12,340 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-04 14:26:12,341 [Worker-114: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringProject
+2024-06-04 14:26:12,341 [Worker-114: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringProject
+2024-06-04 14:45:59,382 [Worker-118: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.olahammed:SpringProject:0.0.1-SNAPSHOT @ /Users/olaidehammed/eclipse-workspace/SpringProject/pom.xml.
+2024-06-04 14:46:00,255 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.pom
+2024-06-04 14:46:00,274 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.pom
+2024-06-04 14:46:00,373 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.pom
+2024-06-04 14:46:00,378 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.pom
+2024-06-04 14:46:00,517 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.pom
+2024-06-04 14:46:00,521 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.pom
+2024-06-04 14:46:00,650 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.pom
+2024-06-04 14:46:00,653 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.pom
+2024-06-04 14:46:00,751 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.pom
+2024-06-04 14:46:00,757 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.pom
+2024-06-04 14:46:00,853 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.pom
+2024-06-04 14:46:00,856 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.pom
+2024-06-04 14:46:01,049 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar
+2024-06-04 14:46:01,601 [Worker-118: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar
+2024-06-04 14:46:01,702 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.jar
+2024-06-04 14:46:01,708 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.jar
+2024-06-04 14:46:01,885 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.jar
+2024-06-04 14:46:01,885 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar
+2024-06-04 14:46:01,887 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.jar
+2024-06-04 14:46:01,965 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.jar
+2024-06-04 14:46:02,383 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.jar
+2024-06-04 14:46:02,412 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.jar
+2024-06-04 14:46:02,654 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.jar
+2024-06-04 14:46:02,892 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar
+2024-06-04 14:46:03,834 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-04 14:46:03,839 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-04 14:46:03,839 [Worker-118: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringProject
+2024-06-04 14:46:03,840 [Worker-118: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringProject
+2024-06-04 14:46:05,372 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23-sources.jar
+2024-06-04 14:46:06,010 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.23/spring-core-5.3.23-sources.jar
+2024-06-04 14:46:06,012 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.23
+2024-06-04 14:46:06,419 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23-sources.jar
+2024-06-04 14:46:06,423 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23-sources.jar
+2024-06-04 14:46:06,425 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.23
+2024-06-04 14:46:06,697 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23-sources.jar
+2024-06-04 14:46:07,351 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.23/spring-context-5.3.23-sources.jar
+2024-06-04 14:46:07,353 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.23
+2024-06-04 14:46:07,663 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23-sources.jar
+2024-06-04 14:46:08,128 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23-sources.jar
+2024-06-04 14:46:08,133 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.23
+2024-06-04 14:46:08,514 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23-sources.jar
+2024-06-04 14:46:08,921 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23-sources.jar
+2024-06-04 14:46:08,924 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.23
+2024-06-04 14:46:09,225 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23-sources.jar
+2024-06-04 14:46:09,574 [Worker-118: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23-sources.jar
+2024-06-04 14:46:09,578 [Worker-118: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.23
+2024-06-05 10:22:00,478 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:22:00,487 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:22:39,435 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:22:39,439 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:24:29,687 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:24:29,690 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:26:55,534 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:26:55,539 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:29:19,014 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:29:19,017 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:30:18,060 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:30:18,065 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:31:36,141 [Worker-161: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:31:36,146 [Worker-161: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:33:29,467 [Worker-164: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:33:29,470 [Worker-164: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:34:38,475 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:34:38,480 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 10:42:26,323 [Worker-169: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 10:42:26,325 [Worker-169: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 12:40:43,908 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 12:40:43,916 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 12:43:59,017 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 12:43:59,021 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 12:47:01,589 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 12:47:01,593 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 12:49:10,322 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 12:49:10,325 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 13:09:37,836 [Worker-189: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 13:09:37,841 [Worker-189: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 13:14:33,104 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 13:14:33,106 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 13:14:51,059 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 13:14:51,062 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 13:18:20,335 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 13:18:20,337 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 13:18:31,966 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 13:18:31,968 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 13:19:22,075 [Worker-198: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 13:19:22,078 [Worker-198: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 13:19:24,385 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 13:19:24,387 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 14:12:27,547 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-05 14:21:37,090 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 14:21:37,126 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 14:22:43,874 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 14:22:43,879 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-05 14:24:02,792 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-05 14:24:02,797 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:37:34,695 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:37:34,703 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:38:08,114 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:38:08,116 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:44:54,849 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:44:54,854 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:45:39,418 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:45:39,422 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:45:53,318 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:45:53,322 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:51:41,170 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:51:41,175 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:58:29,138 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:58:29,143 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 12:59:45,595 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 12:59:45,598 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:02:50,535 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:02:50,538 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:04:37,397 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:04:37,400 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:12:53,050 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:12:53,055 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:12:56,106 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:12:56,110 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:41:28,706 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:41:28,710 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:52:20,217 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:52:20,220 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:52:42,172 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:52:42,174 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 13:53:22,870 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 13:53:22,874 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:23:47,515 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:23:47,521 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:24:52,904 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:24:52,907 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:27:14,789 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:27:14,793 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:27:55,172 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:27:55,175 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:29:20,304 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:29:20,307 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:29:35,870 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:29:35,872 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:29:40,127 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:29:40,129 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:29:52,694 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:29:52,697 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:30:07,213 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:30:07,214 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 15:30:29,479 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 15:30:29,481 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 16:26:52,471 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 16:26:52,479 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 16:34:14,964 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 16:34:14,969 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 16:34:38,799 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 16:34:38,802 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 16:40:44,398 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 16:40:44,403 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 16:41:25,326 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 16:41:25,328 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 16:42:12,513 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 16:42:12,515 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 16:42:32,660 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 16:42:32,662 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 17:21:38,341 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 17:21:38,345 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 17:21:57,220 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 17:21:57,223 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 17:26:43,275 [Worker-136: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 17:26:43,277 [Worker-136: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 17:27:30,267 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 17:27:30,269 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-06 17:27:41,445 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-06 17:27:41,447 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:36:49,402 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:36:49,410 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:38:30,310 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:38:30,313 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:39:37,710 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:39:37,713 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:40:08,872 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:40:08,875 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:40:59,126 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:40:59,128 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:47:31,810 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:47:31,815 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:48:51,001 [Worker-189: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:48:51,004 [Worker-189: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:49:54,594 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:49:54,597 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:53:11,670 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:53:11,672 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:53:24,498 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:53:24,500 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:53:40,730 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:53:40,733 [Worker-195: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 14:53:46,836 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 14:53:46,839 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 15:12:34,802 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 15:12:34,806 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-06-07 15:13:02,966 [Worker-203: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-06-07 15:13:02,968 [Worker-203: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes

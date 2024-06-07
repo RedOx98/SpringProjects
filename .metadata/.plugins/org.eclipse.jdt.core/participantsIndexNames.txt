@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+/Users/olaidehammed/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1946405582.index
+/SpringProject/src/main/resources

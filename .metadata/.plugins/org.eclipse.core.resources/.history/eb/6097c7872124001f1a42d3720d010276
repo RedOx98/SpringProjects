@@ -1,0 +1,7 @@
+package org.olahammed.interfaces;
+
+
+public class Engine {
+
+	String type = "V8";
+}
